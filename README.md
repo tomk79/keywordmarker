@@ -38,7 +38,7 @@ const result = KeywordMarker('Includes "KEYWORD" inside.', 'keyword', {
 
 ## Change log
 
-### @tomk79/keywordmarker v1.0.0 (リリース日未定)
+### @tomk79/keywordmarker v1.0.0 (2024-04-20)
 
 - Initial release.
 
@@ -50,6 +50,4 @@ MIT License
 
 ## Author
 
-- Tomoya Koyanagi <tomk79@gmail.com>
-- website: <https://www.pxt.jp/>
-- Twitter: @tomk79 <https://twitter.com/tomk79/>
+Tomoya Koyanagi <tomk79@gmail.com>

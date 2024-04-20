@@ -1,0 +1,24 @@
+{
+  "name": "@tomk79/keywordmarker",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha --ui bdd ./tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomk79/keywordmarker.git"
+  },
+  "author": "Tomoya Koyanagi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomk79/keywordmarker/issues"
+  },
+  "homepage": "https://github.com/tomk79/keywordmarker#readme",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "@tomk79/keywordmarker",
   "version": "1.0.0",
   "private": false,
-  "description": "",
+  "description": "Add markers to keywords in a text.",
   "type": "module",
   "main": "src/main.js",
   "scripts": {
